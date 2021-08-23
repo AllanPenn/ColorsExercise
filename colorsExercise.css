@@ -1,0 +1,21 @@
+h1 {
+  color: indigo;
+}
+h2 {
+  color: #0076d2;
+}
+h3 {
+  color: #0f0;
+}
+h4 {
+  color: #d6554a99;
+}
+h5{
+  color: #f007;
+}
+h6{
+  color: rgb(20, 50, 130);
+}
+p {
+  color: rgba(100, 20, 75, 0.7);
+}
